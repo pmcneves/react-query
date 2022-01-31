@@ -1,0 +1,118 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "name": "trcxtr",
+      "alterEgo": "trctrctrc",
+      "id": 4
+    },
+    {
+      "name": "oijoij",
+      "alterEgo": "oijoijoijoi",
+      "id": 5
+    },
+    {
+      "name": "mompomomo",
+      "alterEgo": "oimoimoioimim",
+      "id": 6
+    },
+    {
+      "name": "kmklmlkmlkm",
+      "alterEgo": "kmlkmlklkm",
+      "id": 7
+    },
+    {
+      "name": ",,,,",
+      "alterEgo": ",,,,",
+      "id": 8
+    },
+    {
+      "name": "fvygbgbgb",
+      "alterEgo": "ybvyvbygbygbvgvg",
+      "id": 9
+    },
+    {
+      "name": "uiuhiuhiu",
+      "alterEgo": "iuhiuhiuiu",
+      "id": 10
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Chandler Bing"
+    },
+    {
+      "id": 2,
+      "name": "Joey Tribbiani"
+    },
+    {
+      "id": 3,
+      "name": "Rachel Green"
+    }
+  ],
+  "users": [
+    {
+      "id": "teste@teste.com",
+      "channelId": "codeteste"
+    }
+  ],
+  "channels": [
+    {
+      "id": "codeteste",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "red"
+    },
+    {
+      "id": 2,
+      "label": "blue"
+    },
+    {
+      "id": 3,
+      "label": "green"
+    },
+    {
+      "id": 4,
+      "label": "yellow"
+    },
+    {
+      "id": 5,
+      "label": "black"
+    },
+    {
+      "id": 6,
+      "label": "white"
+    },
+    {
+      "id": 7,
+      "label": "orange"
+    },
+    {
+      "id": 8,
+      "label": "purple"
+    }
+  ]
+}
